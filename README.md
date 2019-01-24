@@ -4,8 +4,8 @@
 
 ### About
 
-In this challenge, you're aksed to create a model that can classify 10 different breeds of dog. Follow this [link](https://www.dropbox.com/s/p5xgxa9ofmq48vf/dataset.zip?dl=0) to download the dataset. 
-Train/valid split information is provided in  `Computer Vision/public.json`. Test data will be published after the deadline and your final score will be evaluate based on it. 
+In this challenge, you're aksed to create a model or using whatever AI algorithm you want to classify over 10 different breeds of dog. Follow this [link](https://www.dropbox.com/s/p5xgxa9ofmq48vf/dataset.zip?dl=0) to download the dataset. 
+Train/valid split information is provided in  `Computer Vision/public.json`. Test data will be published after the deadline and your final score will be evaluated based on it. 
 
 **Make sure you index the classes in the following way, otherwise your final score will be incorrect**
 
