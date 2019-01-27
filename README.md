@@ -1,6 +1,6 @@
 # InfoRe-internship-challenge
 
-Note: We would prefer you to use [Keras](keras.io) for this project due to its simplicity. However, any other framework is welcome.
+Note: We would prefer you to use [Keras](keras.io) in this project due to its simplicity. However, any other framework is welcome.
 
 ## Challenge 1: Images Classification
 
