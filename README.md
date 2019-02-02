@@ -1,13 +1,26 @@
 # InfoRe-internship-challenge
 
-Note: We would prefer you to use [Keras](keras.io) in this project due to its simplicity. However, any other framework is welcome.
+- We would prefer you to use [Keras](keras.io) in this project due to its simplicity. However, any other framework is welcome.
+- In these following challenges, we will provide you with training data which you can use to build your model. On the deadlines, we will publish our private test data for you to get the final score.
+- You have to write a report per week in which you should describe/explain how you processed data, how you improved your model (using cross-validation, k-fold, grid-search or something like that) stage by stage. 
+
+For example:
+
+`REPORT WEEK 1 CHALLENGE 1`
+| Date       | Description                                                                                                             | Top-3 acc (Training/Validation) | Top-1 acc (Training/Validation) |
+|------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------|
+| 12/02/2018 | First try with a basic SVM                                                                                              | 80/70                           | 77.6/72.5                       |
+| 13/02/2018 | Using Lenet5 architecture                                                                                               | 85/84                           | 80.5/82.4                       |
+| 14/02/2018 | It's Valentine's Day so I changed the number of units of all hidden layers to the number of days we have been together. | 99.99/50                        | 90.1/19.2                       |
+| ...        |                                                                                                                         |                                 |                                 |
+
+- Note that we will use [top-1 and top-3 accuracy](https://stats.stackexchange.com/questions/156471/imagenet-what-is-top-1-and-top-5-error-rate) to evaluate your model. Please implement these metrics by yourself to make sure that the performance in your report is aligned with your final score.
 
 ## Challenge 1: Images Classification
 
 ### About
 
 In this challenge, you're aksed to create a model or using whatever AI algorithm you want to classify over 10 different breeds of dog. Follow this [link](https://www.dropbox.com/s/p5xgxa9ofmq48vf/dataset.zip?dl=0) to download the dataset. 
-Train/valid split information is provided in  `Computer Vision/public.json`. Test data will be published after the deadline and your final score will be evaluated based on it. 
 
 **Make sure you index the classes in the following way, otherwise your final score will be incorrect**
 
@@ -30,6 +43,12 @@ Train/valid split information is provided in  `Computer Vision/public.json`. Tes
 - [Building model with keras](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
 - Transfer learning with keras tutorial (google yourself :D)
 
+### Deadlines
+
+- 1st report: 23:59 17/02/2019
+- 2nd report: 23:59 23/02/2019
+- Private data published: 12:00 24/02/2019
+
 ## Challenge 2: Intent Classification
 
 ### About
@@ -50,3 +69,9 @@ The 7 intents are: (**Make sure you index the classes in the following order, ot
 
 - [Text Classification with keras](https://realpython.com/python-keras-text-classification/)
 - [How to solve 90% of NLP problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+
+### Deadlines
+
+- 1st report: 23:59 03/03/2019
+- 2nd report: 23:59 09/03/2019
+- Private data published: 12:00 10/03/2019
