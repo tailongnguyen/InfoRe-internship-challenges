@@ -1,5 +1,7 @@
 # InfoRe-internship-challenge
 
+## Note
+
 - We would prefer you to use [Keras](keras.io) in this project due to its simplicity. However, any other framework is welcome.
 - In these following challenges, we will provide you with training data which you can use to build your model. On the deadlines, we will publish our private test data for you to get the final score.
 - You have to write a report per week in which you should describe/explain how you processed data, how you improved your model (using cross-validation, k-fold, grid-search or something like that) stage by stage. 
@@ -7,6 +9,7 @@
 For example:
 
 `REPORT WEEK 1 CHALLENGE 1`
+
 | Date       | Description                                                                                                             | Top-3 acc (Training/Validation) | Top-1 acc (Training/Validation) |
 |------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------|
 | 12/02/2018 | First try with a basic SVM                                                                                              | 80/70                           | 77.6/72.5                       |
