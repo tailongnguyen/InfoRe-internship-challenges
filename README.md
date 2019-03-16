@@ -5,6 +5,7 @@
 - We would prefer you to use [Keras](keras.io) in this project due to its simplicity. However, any other framework is welcome.
 - In these following challenges, we will provide you with training data which you can use to build your model. On the deadlines, we will publish our private test data for you to get the final score.
 - You have to write a report per week in which you should describe/explain how you processed data, how you improved your model (using cross-validation, k-fold, grid-search or something like that) stage by stage. 
+- **Create Trello cards right after you start doing challenges, set due dates and ask at least one of the leaders to confirm your attendance**.
 
 For example:
 
@@ -47,10 +48,9 @@ In this challenge, you're aksed to create a model or using whatever AI algorithm
 - Transfer learning with keras tutorial (google yourself :D)
 
 ### Deadlines
-
-- 1st report: 23:59 17/02/2019
-- 2nd report: 23:59 23/02/2019
-- Private data published: 12:00 24/02/2019
+- 1st report: one week after you start doing challenge I 
+- 2nd report: two weeks after you start doing challenge I
+- Private data: published after you submit 2nd report
 
 ## Challenge 2: Intent Classification
 
@@ -75,6 +75,6 @@ The 7 intents are: (**Make sure you index the classes in the following order, ot
 
 ### Deadlines
 
-- 1st report: 23:59 03/03/2019
-- 2nd report: 23:59 09/03/2019
-- Private data published: 12:00 10/03/2019
+- 1st report: one week after you start doing challenge II
+- 2nd report: two weeks after you start doing challenge II
+- Private data: published after you submit 2nd report
